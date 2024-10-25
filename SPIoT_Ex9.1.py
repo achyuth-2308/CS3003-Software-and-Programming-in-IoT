@@ -1,5 +1,5 @@
-# Implementing the MQTT communication protocol to enable lightweight, reliable messaging
-# between devices in IoT applications, focusing on efficient data exchange over constrained networks
+# Implementing the MQTT communication protocol to enable lightweight, reliable messaging between devices in IoT applications, focusing on efficient data exchange over constrained networks.
+#The publisher sends data to a specified topic. Here’s an example of a simple publisher in Python:
 
 import paho.mqtt.client as mqtt
 import time
