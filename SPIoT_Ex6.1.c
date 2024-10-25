@@ -1,3 +1,5 @@
+//This code contains the implementation of Cryptography Part 1: AES - Encryption and Decryption
+
 #include <AES.h>    // Include the AES library
 #include <Crypto.h> // Include the Crypto library
 
