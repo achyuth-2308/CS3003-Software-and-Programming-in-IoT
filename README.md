@@ -1,5 +1,5 @@
 # CS3003-Software-and-Programming-in-IoT
-file and code dump for all the experiments done in my CS3003 - Software and Programming in IoT (and Lab Component) Course
+file and code dump for all the experiments done in my CS3003 - Software and Programming in IoT Lab Course
 
 ## Exp. 1: Exploring Software Platforms and Programming Languages in IoT
 - The aim of this project is to explore and compare different software platforms (such as Contiki, Tiny OS, Linux) and programming languages used in the Internet of Things (IoT) domain. 
